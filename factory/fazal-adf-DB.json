@@ -1,0 +1,9 @@
+{
+	"name": "fazal-adf-DB",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d4d38d6-bb44-4dbe-a553-e1c26c7572d2",
+		"tenantId": "12b221b3-0464-4223-89e5-888835778b58"
+	}
+}
